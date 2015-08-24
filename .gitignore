@@ -1,0 +1,10 @@
+*.orig
+*.dll
+*.exe
+*.userprefs
+CkanPlugin/bin/*
+CkanPlugin/obj/*
+ServerPlugin/bin/*
+ServerPlugin/obj/*
+*.suo
+*.csproj.user
